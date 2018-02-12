@@ -12,7 +12,7 @@ function p = equivalentPerimeter(grains)
 %  grains - @grain2d
 %
 % Output
-%  p   - perimeter
+%  p   - perimeter (in measurement units)
 %
 % See also
 % grain2d/deltaarea grain2d/paris grain2d/equivalentRadius
